@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540438713441",
+    "project_id": "mezogram-bfdef",
+    "storage_bucket": "mezogram-bfdef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540438713441:android:c8d1ef1d1b72640ecb8620",
+        "android_client_info": {
+          "package_name": "com.glare.mezogram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08PRS6r_85g9gTQFUgjtTz7lrgJ0leDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
